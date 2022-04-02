@@ -1,0 +1,5 @@
+project: mayhem-cmake-exaxmple
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme
